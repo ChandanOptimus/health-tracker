@@ -1,0 +1,53 @@
+[
+  {
+    "id": "2026-09-27-day-1",
+    "date": "2026-09-27",
+    "workoutDay": 1,
+    "completed": false,
+    "exercises": [
+      {
+        "exerciseId": "exercise-1",
+        "completed": false,
+        "actualSets": null,
+        "actualReps": "",
+        "notes": ""
+      },
+      {
+        "exerciseId": "exercise-2",
+        "completed": false,
+        "actualSets": null,
+        "actualReps": null,
+        "notes": ""
+      },
+      {
+        "exerciseId": "exercise-3",
+        "completed": false,
+        "actualSets": null,
+        "actualReps": null,
+        "notes": ""
+      },
+      {
+        "exerciseId": "exercise-4",
+        "completed": false,
+        "actualSets": null,
+        "actualReps": null,
+        "notes": ""
+      },
+      {
+        "exerciseId": "exercise-5",
+        "completed": false,
+        "actualSets": null,
+        "actualReps": null,
+        "notes": ""
+      },
+      {
+        "exerciseId": "exercise-6",
+        "completed": false,
+        "actualSets": null,
+        "actualReps": null,
+        "notes": ""
+      }
+    ],
+    "notes": ""
+  }
+]
